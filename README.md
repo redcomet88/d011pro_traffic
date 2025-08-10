@@ -3,15 +3,14 @@ vue+django 大模型道路交通流量LSTM预测流量|大模型出行建议|图
 编号： D011 pro  【2026 版本】
 亮点： 大模型出行助手 + 深度学习预测 + 可视化分析
 
-> 该项目为博主自主开发，属于国赛获奖级别的项目。
-> 文章结尾部分有CSDN官方提供的学长 联系方式名片
-文章结尾部分有CSDN官方提供的学长 联系方式名片
+>
+完成源码收费，请加QQ 81040295 注明来意
 关注B站，有好处！
 >
 
 ## 视频演示
 
-[video(video-H6aNn9GM-1749895823255)(type-bilibili)(url-https://player.bilibili.com/player.html?aid=114681045850811)(image-https://i-blog.csdnimg.cn/img_convert/d9a99edc39c79415a6bfe58f4e9a7376.jpeg)(title-python大模型智能出行+道路交通流量LSTM预测流量|大模型出行建议|可视化系统| vue+django+mysql+知识图谱)]
+[演示视频](https://www.bilibili.com/video/BV1txMmzJEtm)
 
 ## 技术架构
 vue + django +大模型 + mysql + neo4j
